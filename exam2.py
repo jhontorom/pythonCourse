@@ -9,8 +9,8 @@ __version__ = "1.0.1"
 __maintainer__ = "JFTM"
 __email__ = "jhontoro.m7@gmail.com"
 __status__ = "active"
-__execution__ = "python exam1.py"
-#----------------------------------------------------------
+__execution__ = "python exam2.py"
+#--------------------------------------------2--------------
 # Library
 import random
 #----------------------------------------------------------
