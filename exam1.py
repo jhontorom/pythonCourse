@@ -3,7 +3,7 @@
 #----------------------------------------------------------
 __author__ = "Jhon Toro"
 __copyright__ = "Copyright 2018, ST Projects"
-__credits__ = "j"
+__credits__ = "Jhon"
 __license__ = "GLP 2"
 __version__ = "1.0.1"
 __maintainer__ = "JFTM"
