@@ -6,10 +6,10 @@ __copyright__ = "Copyright 2018, ST Projects"
 __credits__ = "j"
 __license__ = "GLP 2"
 __version__ = "1.0.1"
-__maintainer__ = "x"
-__email__ = "x@gmail.com"
+__maintainer__ = "JFTM"
+__email__ = "jhontoro.m7@gmail.com"
 __status__ = "active"
-__execution__ = "python"
+__execution__ = "python exam1.py"
 #----------------------------------------------------------
 # Library
 import random
